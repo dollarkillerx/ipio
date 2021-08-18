@@ -15,8 +15,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/dollarkillerx/ipio/layers"
 	"github.com/google/gopacket"
-	"github.com/txthinking/ipio/layers"
 )
 
 // Quick and Easy to use debug code to trace

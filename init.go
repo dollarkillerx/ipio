@@ -1,4 +1,4 @@
 package ipio
 
-func init(){
+func init() {
 }
